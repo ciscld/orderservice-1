@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 @Service
 public class ItemRepositoryProjector {
-/*
+
 	private final ItemRepository itemRepository;
 
 	public ItemRepositoryProjector(ItemRepository itemRepository) {
@@ -38,10 +38,9 @@ public class ItemRepositoryProjector {
 	}
 
 	private Function<ItemEntity, ItemsBean> toItem() {
-		return e -> {
-			ItemsBean itemsBean = new ItemsBean( e.getItemName(), e.getPrice(), e.getQuantity());
-			return itemsBean;
-		};
-
- */
+        return e -> {
+            ItemsBean itemsBean = new ItemsBean(e.getItemName(), e.getPrice(), e.getQuantity());
+            return itemsBean;
+        };
+    }
 }

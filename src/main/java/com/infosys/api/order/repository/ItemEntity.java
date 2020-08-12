@@ -2,19 +2,22 @@ package com.infosys.api.order.repository;
 
 import lombok.Data;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.math.BigDecimal;
 import java.util.UUID;
 
-//@Entity
-//@Data
+@Entity
+@Data
 public class ItemEntity {
-	//@Id
+	@Id
 	private String itemName;
-	//@Column
+	@Column
 	private  UUID cartIdentifier;
-	//@Column
+	@Column
 	private  BigDecimal price;
-	//@Column
+	@Column
 	private  Integer quantity;
 
 	public ItemEntity() {
