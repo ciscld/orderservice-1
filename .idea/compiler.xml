@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="order" />
+        <module name="orderservice-1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="order" target="1.8" />
+      <module name="orderservice-1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="order" options="-parameters" />
+      <module name="orderservice-1" options="-parameters" />
     </option>
   </component>
 </project>

@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.infosys.api.order</groupId>
-    <artifactId>orderservice</artifactId>
+    <artifactId>order-service</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>orderservice</name>
+    <name>orderservice-1</name>
 
 
     <properties>
@@ -15,7 +15,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <spring.boot.version>2.0.6.RELEASE</spring.boot.version>
         <opentracing-spring-jaeger-web-starter.version>3.1.1</opentracing-spring-jaeger-web-starter.version>
-        <app.name>orderservice</app.name>
+        <app.name>orderservice-1</app.name>
     </properties>
 
     <parent>
