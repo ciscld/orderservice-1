@@ -11,6 +11,7 @@ import java.util.concurrent.ExecutionException;
 
 @Service
 public class CartProjector {
+	/*
 	private final Repository<Cart> repository;
 
 	public CartProjector(Repository<Cart> repository) {
@@ -23,5 +24,5 @@ public class CartProjector {
 		repository.load("" + query.getCartIdentifier()).execute(future::complete);
 		return future.get();
 	}
-
+*/
 }
