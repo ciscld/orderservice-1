@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3225c98-ec09-4e88-9996-fadbfd662991" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifests/kube.deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/manifests/kube.deploy.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,7 @@
       <workItem from="1597187505111" duration="1277000" />
       <workItem from="1597188849173" duration="1017000" />
       <workItem from="1597190083247" duration="975000" />
-      <workItem from="1597191079791" duration="5757000" />
+      <workItem from="1597191079791" duration="6382000" />
     </task>
     <servers />
   </component>
