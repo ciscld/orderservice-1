@@ -11,7 +11,7 @@ LABEL maintainer="IBM Java Engineering at IBM Cloud"
 #
 
 # Pull base image.
-FROM dockerfile/java
+#FROM dockerfile/java
 
 # Install H2
 RUN \
