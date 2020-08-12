@@ -42,7 +42,7 @@
                 </exclusion>
               </exclusions> -->
         </dependency>
-
+<!--
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -54,7 +54,7 @@
             <artifactId>h2</artifactId>
             <version>1.4.197</version>
         </dependency>
-
+-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
@@ -64,17 +64,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
-        <dependency>
-            <groupId>io.micrometer</groupId>
-            <artifactId>micrometer-registry-prometheus</artifactId>
-        </dependency>
 
-        <!-- Distributed tracing with OpenTracing -->
-        <dependency>
-            <groupId>io.opentracing.contrib</groupId>
-            <artifactId>opentracing-spring-jaeger-web-starter</artifactId>
-            <version>${opentracing-spring-jaeger-web-starter.version}</version>
-        </dependency>
         <dependency>
             <groupId>com.ibm.cloud</groupId>
             <artifactId>ibm-cloud-spring-boot-service-bind</artifactId>
