@@ -16,6 +16,7 @@ VOLUME /usr/lib/h2
 ENV H2_VERSION "1.4.197"
 
 # Download
+COPY h2-1.4.197.jar /var/lib/h2/h2.jar
 ADD "https://repo1.maven.org/maven2/com/h2database/h2/${H2_VERSION}/h2-${H2_VERSION}.jar" /var/lib/h2/h2.jar
 
 # Startup script

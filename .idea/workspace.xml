@@ -23,6 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3225c98-ec09-4e88-9996-fadbfd662991" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/h2-1.4.197.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h2.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,12 +69,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pnaze\ibm\orderservice-1" />
       <recent name="C:\dev2\hack\org\orderservice-1\src\main\resources" />
       <recent name="C:\Users\pnaze\ibm\order\src\main\java" />
     </key>
