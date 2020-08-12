@@ -23,9 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3225c98-ec09-4e88-9996-fadbfd662991" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/orderservice-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/orderservice-1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,7 @@
       <workItem from="1597188849173" duration="1017000" />
       <workItem from="1597190083247" duration="975000" />
       <workItem from="1597191079791" duration="7070000" />
-      <workItem from="1597209613001" duration="684000" />
+      <workItem from="1597209613001" duration="2015000" />
     </task>
     <servers />
   </component>
