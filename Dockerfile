@@ -4,7 +4,7 @@
 
 FROM ibmjava:8-sdk AS builder
 LABEL maintainer="IBM Java Engineering at IBM Cloud"
-VOLUME /tmp
+#VOLUME /tmp
 WORKDIR /app
 RUN apt-get update && apt-get install -y maven
 
@@ -21,7 +21,7 @@ RUN BX_DEV_USERID=$bx_dev_userid
 RUN if [ $bx_dev_user != "root" ]; then useradd -ms /bin/bash -u $bx_dev_userid $bx_dev_user; fi
 
 FROM adoptopenjdk/openjdk8:ubi-jre
-ADD orderdb.h2.db  /tmp/orderdb.h2.db
+#ADD orderdb.h2.db  /tmp/orderdb.h2.db
 
 # Copy over app from builder image into the runtime image.
 RUN mkdir /opt/app
