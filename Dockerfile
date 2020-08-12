@@ -31,7 +31,7 @@ ENV JAVA_OPTIONS ""
 # Additional H2 options
 ENV H2_OPTIONS ""
 
-
+RUN /var/lib/h2/h2.sh
 
 #VOLUME /tmp
 WORKDIR /app
@@ -56,4 +56,4 @@ FROM adoptopenjdk/openjdk8:ubi-jre
 RUN mkdir /opt/app
 COPY --from=builder /app/target/order-service-1.0-SNAPSHOT.jar /opt/app/app.jar
 
-ENTRYPOINT [ "/var/lib/h2/h2.sh" & "sh", "-c", "java -jar /opt/app/app.jar" ]
+ENTRYPOINT [ "sh", "-c", "java -jar /opt/app/app.jar" ]
