@@ -12,7 +12,7 @@ import java.util.concurrent.ExecutionException;
 @Service
 public class CartProjector {
 
-	private final Repository<Cart> repository;
+	/*private final Repository<Cart> repository;
 
 	public CartProjector(Repository<Cart> repository) {
 		this.repository = repository;
@@ -23,6 +23,6 @@ public class CartProjector {
 		CompletableFuture<Cart> future = new CompletableFuture<Cart>();
 		repository.load("" + query.getCartIdentifier()).execute(future::complete);
 		return future.get();
-	}
+	} */
 
 }
