@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a3225c98-ec09-4e88-9996-fadbfd662991" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,25 +201,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597214618168" />
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1597247685428">
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1597357727867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597247685428" />
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597357727867" />
     <state width="1268" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597209431367" />
-    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1597247685427">
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1597357727866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597247685427" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597357727866" />
     <state width="1268" height="286" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597209431367" />
-    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1597247685427">
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1597357727866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597247685427" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597357727866" />
     <state width="1268" height="286" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597209431366" />
-    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1597247685427">
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1597357727867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597247685427" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597357727867" />
     <state width="1268" height="286" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597209431367" />
     <state width="1729" height="280" key="GridCell.Tab.1.bottom" timestamp="1597229337981">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -246,6 +245,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="138" width="1288" height="690" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597258041735" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1597357830551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597357830551" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1597191738644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
